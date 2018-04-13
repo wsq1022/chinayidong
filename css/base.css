@@ -1,0 +1,23 @@
+/*
+* @Author: liu
+* @Date:   2017-12-02 11:30:08
+* @Last Modified by:   liu
+* @Last Modified time: 2017-12-04 10:23:45
+*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑"，"宋体"，"sans-serif";
+	font-size: 16px;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+img{
+	border: none;
+}
+i{
+	font-style: normal;
+}
